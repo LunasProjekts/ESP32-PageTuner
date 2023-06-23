@@ -65,8 +65,9 @@ void loop() {
     // for Sleep
     lastConnection = millis();
 
+    // depaning on wireing diagramm, it´s possible that isRelesaed invertied
     if (b_left.isReleased()){
-      Serial.println(String(b_left.isReleased()));
+      /* Serial.println(String(b_left.isReleased())); */
       Serial.println("The LEFT is Pressed / Sending 'Page left'");
       bleKeyboard.press(KEY_LEFT_ARROW);
       delay(120);  //0.12 sec
