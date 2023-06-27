@@ -5,6 +5,6 @@ A wireless PageTuner for digital Notes by @LunaDEV-net
 
 ## Parts
 Base:
- 'https://www.thomann.de/de/lead_foot_fs2.htm'
+ `https://www.thomann.de/de/lead_foot_fs2.htm`
 Esp:
-  'https://www.conrad.de/de/p/joy-it-entwickler-platine-node-mcu-esp32-modul-1656367.html'
+  `https://www.conrad.de/de/p/joy-it-entwickler-platine-node-mcu-esp32-modul-1656367.html`
