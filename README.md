@@ -5,8 +5,7 @@ A wireless PageTuner for digital Notes by @LunaDEV-net
 
 ## Parts
 + Base:
-  
- `https://www.thomann.de/de/lead_foot_fs2.htm`
+  `https://www.thomann.de/de/lead_foot_fs2.htm`
 
  
 + Esp:
