@@ -1,2 +1,2 @@
 v1-1-1:
-+ changed pins for button from 35, 36 to 
++ changed pins for button from 35, 36 to 26,25
