@@ -9,5 +9,4 @@ A wireless PageTuner for digital Notes by @LunaDEV-net
 
  
 + Esp:
-  
   `https://www.conrad.de/de/p/joy-it-entwickler-platine-node-mcu-esp32-modul-1656367.html`
