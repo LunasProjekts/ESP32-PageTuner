@@ -23,7 +23,7 @@
 // for ezButton.h
 int DEBOUNCE_TIME = 50;
 
-// for
+// for Sleep Calc
 #define uS_TO_S_FACTOR 1000000ULL  /* Conversion factor for micro seconds to seconds */
 #define S_TO_MIN_FACTOR 60        /* Conversion factor for seconds to minute    */
 #define TIME_TO_SLEEP  60        /* Time ESP32 will go to sleep (in seconds) */
