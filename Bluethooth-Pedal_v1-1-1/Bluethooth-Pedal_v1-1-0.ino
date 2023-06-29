@@ -9,7 +9,7 @@
   components:
     Esp32,
     2 Buttons,
-    Battery compartment (~3.3V),
+    Battery compartment (~4.5V)
     Cables
   helpful/thanks:
     https://randomnerdtutorials.com/esp32-deep-sleep-arduino-ide-wake-up-sources/ // for sleep mode
